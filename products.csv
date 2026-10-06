@@ -1,0 +1,55 @@
+sku,product_name,product_Quaantity,category,is_perishable,shelf_life_days,mrp,unit_cost,margin_pct,negative_margin_flag
+"SKU0001","Banana Robusta","1kg","Fruits & Vegetables","Perishable",3,57.59,44.38,0.2294,0
+"SKU0002","Tomato Hybrid","500g","Fruits & Vegetables","Perishable",3,120.36,93.01,0.2272,0
+"SKU0003","Onion","1kg","Fruits & Vegetables","Perishable",3,86.81,67.81,0.2189,0
+"SKU0004","Baby Spinach","250g","Fruits & Vegetables","Perishable",3,147.88,110.17,0.255,0
+"SKU0005","Alphonso Mango","1kg","Fruits & Vegetables","Perishable",3,135.91,99.37,0.2689,0
+"SKU0006","Green Capsicum","500g","Fruits & Vegetables","Perishable",3,75.22,58.35,0.2243,0
+"SKU0007","Coriander","100g","Fruits & Vegetables","Perishable",3,45.83,36.21,0.2099,0
+"SKU0008","Potato","2kg","Fruits & Vegetables","Perishable",3,106.48,77.29,0.2741,0
+"SKU0009","Cucumber","500g","Fruits & Vegetables","Perishable",3,143.67,116.96,0.1859,0
+"SKU0010","Lemon","250g","Fruits & Vegetables","Perishable",3,149.71,114.79,0.2333,0
+"SKU0011","Full Cream Milk","1L","Dairy & Eggs","Perishable",7,69.25,55.39,0.2001,0
+"SKU0012","Toned Milk","500ml","Dairy & Eggs","Perishable",7,38.51,27.79,0.2784,0
+"SKU0013","Paneer","200g","Dairy & Eggs","Perishable",7,178.61,138.16,0.2265,0
+"SKU0014","Farm Eggs","6pc","Dairy & Eggs","Perishable",7,102.69,79.19,0.2288,0
+"SKU0015","Curd","400g","Dairy & Eggs","Perishable",7,173.02,138.66,0.1986,0
+"SKU0016","Butter","100g","Dairy & Eggs","Perishable",7,160.06,174.47,-0.09,1
+"SKU0017","Cheese Slices","200g","Dairy & Eggs","Perishable",7,41.23,30.01,0.2721,0
+"SKU0018","Fresh Cream","250ml","Dairy & Eggs","Perishable",7,139.43,108.61,0.221,0
+"SKU0019","Chicken Curry Cut","500g","Meat & Seafood","Perishable",2,181.01,197.3,-0.09,1
+"SKU0020","Chicken Breast","450g","Meat & Seafood","Perishable",2,121.46,93.99,0.2262,0
+"SKU0021","Rohu Fish","500g","Meat & Seafood","Perishable",2,116.21,91.93,0.2089,0
+"SKU0022","Prawns","250g","Meat & Seafood","Perishable",2,107.84,87.36,0.1899,0
+"SKU0023","Mutton Curry Cut","500g","Meat & Seafood","Perishable",2,175.9,191.73,-0.09,1
+"SKU0024","Brown Bread","400g","Bakery","Perishable",4,53.29,38.6,0.2757,0
+"SKU0025","White Bread","350g","Bakery","Perishable",4,140.67,114.1,0.1889,0
+"SKU0026","Pav","6pc","Bakery","Perishable",4,166.93,136.79,0.1806,0
+"SKU0027","Croissant","2pc","Bakery","Perishable",4,93.23,72.81,0.219,0
+"SKU0028","Whole Wheat Bun","4pc","Bakery","Perishable",4,44.09,48.06,-0.09,1
+"SKU0029","Cola","750ml","Beverages","Non-Perishable",240,137.85,93.49,0.3218,0
+"SKU0030","Orange Juice","1L","Beverages","Non-Perishable",240,34.75,37.88,-0.0901,1
+"SKU0031","Green Tea 25","bags","Beverages","Non-Perishable",240,156.86,95.79,0.3893,0
+"SKU0032","Cold Coffee","180ml","Beverages","Non-Perishable",240,164.55,102.68,0.376,0
+"SKU0033","Energy Drink","250ml","Beverages","Non-Perishable",240,92.98,64.24,0.3091,0
+"SKU0034","Mineral Water","1L","Beverages","Non-Perishable",240,46.71,32.48,0.3046,0
+"SKU0035","Lemon Iced Tea","400ml","Beverages","Non-Perishable",240,176.7,192.6,-0.09,1
+"SKU0036","Potato Chips","52g","Snacks & Packaged","Non-Perishable",300,120.01,69.48,0.421,0
+"SKU0037","Instant Noodles","4pk","Snacks & Packaged","Non-Perishable",300,109.27,60.88,0.4428,0
+"SKU0038","Digestive Biscuits","250g","Snacks & Packaged","Non-Perishable",300,173.48,101.59,0.4144,0
+"SKU0039","Roasted Almonds","200g","Snacks & Packaged","Non-Perishable",300,64.45,43.54,0.3244,0
+"SKU0040","Namkeen Mix","400g","Snacks & Packaged","Non-Perishable",300,170.16,105.2,0.3818,0
+"SKU0041","Dark Chocolate","80g","Snacks & Packaged","Non-Perishable",300,85.66,52.5,0.3871,0
+"SKU0042","Popcorn","100g","Snacks & Packaged","Non-Perishable",300,94.09,64.7,0.3124,0
+"SKU0043","Dishwash Gel","750ml","Household","Non-Perishable",540,88.56,53.96,0.3907,0
+"SKU0044","Floor Cleaner","1L","Household","Non-Perishable",540,54.35,36.27,0.3327,0
+"SKU0045","Garbage Bags","30pc","Household","Non-Perishable",540,136.3,81.29,0.4036,0
+"SKU0046","Detergent Powder","1kg","Household","Non-Perishable",540,57.3,39.29,0.3143,0
+"SKU0047","Toilet Cleaner","500ml","Household","Non-Perishable",540,62.93,37.04,0.4114,0
+"SKU0048","Room Freshener","220ml","Household","Non-Perishable",540,126.69,76.93,0.3928,0
+"SKU0049","Shampoo","340ml","Personal Care","Non-Perishable",480,81.91,49.48,0.3959,0
+"SKU0050","Toothpaste","150g","Personal Care","Non-Perishable",480,155.11,105.48,0.32,0
+"SKU0051","Handwash","200ml","Personal Care","Non-Perishable",480,65.94,42.47,0.3559,0
+"SKU0052","Face Wash","100ml","Personal Care","Non-Perishable",480,34.8,21.81,0.3733,0
+"SKU0053","Deodorant","150ml","Personal Care","Non-Perishable",480,162.83,108.35,0.3346,0
+"SKU0054","Shaving Gel","60g","Personal Care","Non-Perishable",480,133.61,82.64,0.3815,0
